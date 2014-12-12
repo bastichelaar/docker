@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/docker/docker/api"
-	"github.com/docker/docker/api/client"
+	"github.com/bastichelaar/docker/api"
+	"github.com/bastichelaar/docker/api/client"
 	"github.com/docker/docker/dockerversion"
 	flag "github.com/docker/docker/pkg/mflag"
 	"github.com/docker/docker/pkg/reexec"
